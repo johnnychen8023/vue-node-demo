@@ -1,28 +1,20 @@
 # vue-node-demo  
 
-> github地址 https://github.com/193Eric/vue-node-demo  
+> github地址 https://github.com/johnnychen8023/vue-node-demo 
 
 > 本项目是采用element-ui的ui组件框架，结合webpack 打包的vue单页面后台系统。API接口是用Nodejs express框架。  
-
-> 线上demo地址:<http://119.29.140.135> -----用户名：root,密码：123456  
 
 > 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！ ^_^  
 
 > 如果你觉得对你有帮助，可以点击folk，或者follow一下，我会不定时跟新一些有趣的东西.~~~ 0.0  
 
-  
-## vue前端，nodejs后台api，数据库 mysql 构建的个人博客后台/
-![print](https://github.com/193Eric/vue-node-demo/blob/master/src/assets/images/page1.png) 
-![print](https://github.com/193Eric/vue-node-demo/blob/master/src/assets/images/page2.png) 
-![print](https://github.com/193Eric/vue-node-demo/blob/master/src/assets/images/page3.png) 
-![print](https://github.com/193Eric/vue-node-demo/blob/master/src/assets/images/page4.png) 
-![print](https://github.com/193Eric/vue-node-demo/blob/master/src/assets/images/page5.png) 
 ##### 环境
- 1. node v6.10.1
- 2. cnpm 4.5.0
- 3. npm 3.10.10
+ 1. node v8.9.2
+ 2. cnpm 5.1.1
+ 3. npm 5.5.1
  4. vue 2.0
  5. axios 0.16.1 
+ 6. mysql 5.5
 ##### 技术栈
 前端：  
 > [vue]
